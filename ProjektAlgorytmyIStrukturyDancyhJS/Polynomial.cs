@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProjektAlgorytmyIStrukturyDancyhJS
 {
-    public class CubicFunction
+    internal class Polynomial
     {
         public double Calculate(double x)
         {
-            return Math.Pow(x, 3);
+            return Math.Pow(x, 5);
         }
     }
 }
