@@ -37,5 +37,4 @@ namespace ProjektAlgorytmyIStrukturyDancyhJS
             Console.WriteLine();
         }
     }
-
 }

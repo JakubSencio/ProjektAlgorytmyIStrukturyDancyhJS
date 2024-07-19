@@ -28,5 +28,4 @@ namespace ProjektAlgorytmyIStrukturyDancyhJS
             return answer;
         }
     }
-
 }
